@@ -2,6 +2,10 @@ body {
   font-size: 10px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .thumbnail-title {
   display: block;
   margin: 0;
